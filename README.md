@@ -1,2 +1,2 @@
 # page.support
-github pages site
+This is the best site!
